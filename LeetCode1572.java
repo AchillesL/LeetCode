@@ -1,4 +1,4 @@
-package LeetCode;
+package leetcode.LeetCode;
 
 public class LeetCode1572 {
     /*注意要判断奇偶*/

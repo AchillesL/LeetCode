@@ -1,4 +1,4 @@
-package LeetCode;
+package leetcode.LeetCode;
 
 public class LeetCode1480 {
 
